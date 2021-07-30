@@ -20,6 +20,8 @@ July 30th, 2021.
 
 (Quoted from [Alex's Main Repo](https://github.com/kallaway/100-days-of-code))
 
+### Follow the rules from _*Alex*_
+
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
 2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd/)
 3. If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
