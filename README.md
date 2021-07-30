@@ -26,4 +26,4 @@
 
 - This repository is forked from the **_GREAT_** [Alex](https://twitter.com/ka11away).
 - If you want to follow my journey, feel free to reach out to me on Twitter: [@moeen_mahmud](https://twitter.com/moeen_mahmud)
-- If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+- If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it:smiley:

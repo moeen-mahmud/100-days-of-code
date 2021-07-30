@@ -1,3 +1,7 @@
 # ignore international language files
 
 intl/
+
+# Ignore round log file
+
+/round-log.md
