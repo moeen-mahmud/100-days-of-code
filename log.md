@@ -8,7 +8,7 @@
 
 ---
 
-### Day 0: July 30, 2021
+### Day 1: July 31, 2021
 
 **Today's Progress**: Learn about variables declaration, data types, parseInt(), parseFloat, toFixed() method.
 
