@@ -29,3 +29,20 @@
 _screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
 
 **Thoughts**: When I practice the array's indexOf() method, I get confused with search by the index and by the array element. MDN Documentation helped me a lot with that topic. I find the function very interesting though.
+
+### Day 3: August 2, 2021
+
+**Today's Progress**:
+
+1. Learn more about functions and arrays.
+2. Learn about loops (while, do..while, for).
+3. Solved around 15 beginner javascript problem question.
+
+### Screenshot
+
+![](./screenshots/ss-02-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+Today I solve around 15 problem questions on hackernoon. Really enjoyed these exercises. Look forward to solving more and more.
