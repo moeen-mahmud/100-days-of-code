@@ -14,6 +14,8 @@
 
 **Thoughts**: Wonder how easy to implement and write any pre-written method to a program. Look forward to learn more!!
 
+---
+
 ### Day 2: August 1, 2021
 
 **Today's Progress**:
@@ -29,6 +31,8 @@
 _screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
 
 **Thoughts**: When I practice the array's indexOf() method, I get confused with search by the index and by the array element. MDN Documentation helped me a lot with that topic. I find the function very interesting though.
+
+---
 
 ### Day 3: August 2, 2021
 
@@ -46,3 +50,19 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 
 **Thoughts**:
 Today I solve around 15 problem questions on hackernoon. Really enjoyed these exercises. Look forward to solving more and more.
+
+---
+
+### Day 4: August 3, 2021
+
+**Today's Progress**:
+
+1. Explore objects and more functions
+2. Learn how to use prompt method (user input) in node CLI
+
+![](./screenshots/ss-03-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+Today I discover an amazing thing which is how to take user input from node command line. Though the process is not as easy as normal browser prompt, but I enjoy this.
