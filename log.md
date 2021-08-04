@@ -84,7 +84,7 @@ Today I discover an amazing thing which is how to take user input from node comm
 
 _screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
 
-**Thoughts**
+**Thoughts**:
 I find the recursion on JavaScript is a bit weird. Solved a program that finds the nth Fibonacci number using recursive function. Look forward to solving more problem questions.
 
 ---
