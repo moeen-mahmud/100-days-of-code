@@ -66,3 +66,17 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 
 **Thoughts**:
 Today I discover an amazing thing which is how to take user input from node command line. Though the process is not as easy as normal browser prompt, but I enjoy this.
+
+---
+
+### Day 5: August 4, 2021
+
+**Today's Progress**
+
+1. Learn about the basics of recursive function
+2. Revise everything I learn from day zero.
+
+**Thoughts**
+I find the recursion on JavaScript is a bit weird. Solved a program that finds the nth Fibonacci number using recursive function. Look forward to solving more problem questions.
+
+---
