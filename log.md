@@ -60,6 +60,8 @@ Today I solve around 15 problem questions on hackernoon. Really enjoyed these ex
 1. Explore objects and more functions
 2. Learn how to use prompt method (user input) in node CLI
 
+### Screenshot
+
 ![](./screenshots/ss-03-08-21.png)
 
 _screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
@@ -75,6 +77,12 @@ Today I discover an amazing thing which is how to take user input from node comm
 
 1. Learn about the basics of recursive function
 2. Revise everything I learn from day zero.
+
+### Screenshot
+
+![](./screenshots/ss-04-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
 
 **Thoughts**
 I find the recursion on JavaScript is a bit weird. Solved a program that finds the nth Fibonacci number using recursive function. Look forward to solving more problem questions.
