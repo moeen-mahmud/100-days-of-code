@@ -88,3 +88,19 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 I find the recursion on JavaScript is a bit weird. Solved a program that finds the nth Fibonacci number using recursive function. Look forward to solving more problem questions.
 
 ---
+
+### Day 6: August 5, 2021
+
+**Today's Progress**
+
+1. Learn nothing new today.
+2. Have practised [Hackernoon's](https://hackernoon.com/javascript-practical-coding-challenges-for-beginners-4bq3ugr) problem questions again.
+
+### Screenshot
+
+![](./screenshots/ss-05-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+Following yesterday, today was the last revision day before starting some intermediate concepts in JavaScript. Best of luck myself.
