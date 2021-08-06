@@ -104,3 +104,24 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 
 **Thoughts**:
 Following yesterday, today was the last revision day before starting some intermediate concepts in JavaScript. Best of luck myself.
+
+---
+
+### Day 7: August 6, 2021
+
+**Today's Progress**
+
+1. Learn the application of various Math functions, ie, Math.abs(), min(), max(), round(), ceil(), floor(), random()
+2. Learn how to swap to swap variable and use of destructuring with an array.
+3. Learn how to use recursion to find nth Fibonacci in a series.
+
+### Screenshot
+
+![](./screenshots/ss-06-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+I've practised more problem questions by applying what I learned today. Though, I struggled a bit in the recursion method and finding the nth Fibonacci using that method. Hope I will overcome my confusion in the following days.
+
+---
