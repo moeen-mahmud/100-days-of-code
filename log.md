@@ -125,3 +125,19 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 I've practised more problem questions by applying what I learned today. Though, I struggled a bit in the recursion method and finding the nth Fibonacci using that method. Hope I will overcome my confusion in the following days.
 
 ---
+
+### Day 8: August 7, 2021
+
+**Today's Progress**
+
+1. Learn how to use for...of loops.
+2. Solved a bunch of code challenges relating to array, loops and conditions.
+
+### Screenshot
+
+![](./screenshots/ss-07-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+Today was great for me because I learned a lot of new things while solving the coding challenges. Mainly, I was able to remove my confusion in the arrays and loops, and I'm looking forward to practising the next day and revising the previous learnings once again.
