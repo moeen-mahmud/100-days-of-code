@@ -141,3 +141,20 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 
 **Thoughts**:
 Today was great for me because I learned a lot of new things while solving the coding challenges. Mainly, I was able to remove my confusion in the arrays and loops, and I'm looking forward to practising the next day and revising the previous learnings once again.
+
+---
+
+### Day 9: August 8, 2021
+
+**Today's Progress**
+
+1. Today I have practised what I have learned so far and cleared up the topic that is confusing to me.
+
+### Screenshot
+
+![](./screenshots/ss-08-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+I don't know how much time should I practice coding. But I think today is enough and will look forward to the next day.
