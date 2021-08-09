@@ -158,3 +158,20 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 
 **Thoughts**:
 I don't know how much time should I practice coding. But I think today is enough and will look forward to the next day.
+
+---
+
+### Day 10: August 9, 2021
+
+**Today's Progress**
+
+1. Today, I did not code for a long time and want to take a pause for various reasons, but I shouldn't stop practising. Nothing new today.
+
+### Screenshot
+
+![](./screenshots/ss-09-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+The day was not great.
