@@ -175,3 +175,20 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 
 **Thoughts**:
 The day was not great.
+
+---
+
+### Day 11: August 10, 2021
+
+**Today's Progress**
+
+1. Today, I solved 10 new problems in JavaScript
+
+### Screenshot
+
+![](./screenshots/ss-10-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+I should code more and more and practice more. But...
