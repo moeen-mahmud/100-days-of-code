@@ -192,3 +192,20 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 
 **Thoughts**:
 I should code more and more and practice more. But...
+
+---
+
+### Day 12: August 11, 2021
+
+**Today's Progress**
+
+1. Today I revised all the basics and techniques that I have learned so far before starting to understand the Document Object Model.
+
+### Screenshot
+
+![](./screenshots/ss-11-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+Last two days, I could not code that much I want every day. But today, I code a significant amount of time. Hope that tomorrow will be great for me.
