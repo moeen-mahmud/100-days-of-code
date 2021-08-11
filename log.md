@@ -205,7 +205,7 @@ I should code more and more and practice more. But...
 
 ![](./screenshots/ss-11-08-21.png)
 
-_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+**screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out.**
 
 **Thoughts**:
 Last two days, I could not code that much I want every day. But today, I code a significant amount of time. Hope that tomorrow will be great for me.
