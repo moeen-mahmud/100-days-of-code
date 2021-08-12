@@ -209,3 +209,27 @@ I should code more and more and practice more. But...
 
 **Thoughts**:
 Last two days, I could not code that much I want every day. But today, I code a significant amount of time. Hope that tomorrow will be great for me.
+
+---
+
+### Day 13: August 12, 2021
+
+**Today's Progress**
+
+1. Learned about the basics of how DOM works.
+   Learned how to use getElementById(), getElementsByClassName(), getElementByTagName(), querySelector(), querySelectorAll().
+2. Learned the basics of NodeList, HTML collection, setAttribute(), parentNode, childnodes.
+3. How to add styles in a particular tag, class or id.
+4. How to create an element, how to append an element, how to add class using classList.add().
+5. innerHTML and innerText
+
+### Screenshot
+
+![](./screenshots/ss-12-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+Today I learned many new things about the DOM and the very basics. I played around with some dom function and explore a whole new area. I enjoyed the day.
+
+---
