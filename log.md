@@ -233,3 +233,18 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 Today I learned many new things about the DOM and the very basics. I played around with some dom function and explore a whole new area. I enjoyed the day.
 
 ---
+
+### Day 14: August 13, 2021
+
+**Today's Progress**
+
+1. Today I learned the basics of DOM events, event listeners and event bubble.
+
+### Screenshot
+
+![](./screenshots/ss-13-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+The Document Object Model is a vast topic. I feel lost and overwhelming sometimes. I know I learned the basics fundamentals, but I should brush up on all the things again tomorrow.
