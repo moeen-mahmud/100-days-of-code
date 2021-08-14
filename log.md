@@ -248,3 +248,20 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 
 **Thoughts**:
 The Document Object Model is a vast topic. I feel lost and overwhelming sometimes. I know I learned the basics fundamentals, but I should brush up on all the things again tomorrow.
+
+---
+
+### Day 15: August 14, 2021
+
+**Today's Progress**
+
+1. Today, I practiced everything I learned about the DOM and added some javascript events to an existing site that I created earlier.
+
+### Screenshot
+
+![](./screenshots/ss-14-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+Today besides the DOM, I have also completed a challenge from Frontend Mentor. It helps me to recall my HTML and CSS skills well. Now, I look forward to learning about some advanced events in DOM.
