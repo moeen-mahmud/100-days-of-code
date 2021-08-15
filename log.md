@@ -265,3 +265,25 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 
 **Thoughts**:
 Today besides the DOM, I have also completed a challenge from Frontend Mentor. It helps me to recall my HTML and CSS skills well. Now, I look forward to learning about some advanced events in DOM.
+
+---
+
+### Day 16: August 15, 2021
+
+**Today's Progress**
+
+1. Today, I learned how to get user input from an HTML form and calculate it by creating a simple banking website.
+2. Then, I made a simple BMI calculator using vanilla JS and Tailwind CSS.
+
+### Project Shot
+
+![](./project-shots/ss-bmi-calculator.png)
+
+### Screenshot
+
+![](./screenshots/ss-15-08-21.png)
+
+_screenshot generated from [Waka Time](https://wakatime.com/). One of the best productivity tools for developers. Check this out._
+
+**Thoughts**:
+Today was great for me because I learned lots of new things and techniques. Slowly, my confusion is fading away. Look forward to making something more dynamic with the DOM.

@@ -1,0 +1,14 @@
+{
+  "grammarly.overrides": [
+    {
+      "files": ["**/log.md"],
+      "config": {
+        "audience": "knowledgeable",
+        "dialect": "british",
+        "domain": "creative",
+        "emotions": ["confident", "optimistic", "friendly", "analytical"],
+        "goals": ["inform", "describe", "tellStory"]
+      }
+    }
+  ]
+}
