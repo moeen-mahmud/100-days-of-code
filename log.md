@@ -287,3 +287,19 @@ _screenshot generated from [Waka Time](https://wakatime.com/). One of the best p
 
 **Thoughts**:
 Today was great for me because I learned lots of new things and techniques. Slowly, my confusion is fading away. Look forward to making something more dynamic with the DOM.
+
+---
+
+### Day 17: August 16, 2021
+
+**Today's Progress**
+
+1. Today, I've added some advanced functionality in my previous projects, such as error handling, input validation etc.
+2. I also try to improve the functionality of the BMI calculator that I created yesterday.
+
+![](./screenshots/ss-16-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/). Although, I have been using **Waka Time** for a great amount time but it cannot generate more than a week's report in its free version. Then today, I tried out **Code Time** and honestly I'm impressed._
+
+**Thoughts:**
+Today, I learn many new things about input validation, function management, and the importance of creating a super cool function that prevents "DRY". I had a great day.
