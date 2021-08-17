@@ -303,3 +303,25 @@ _screenshot generated from [Code Time](https://www.software.com/). Although, I h
 
 **Thoughts:**
 Today, I learn many new things about input validation, function management, and the importance of creating a super cool function that prevents "DRY". I had a great day.
+
+---
+
+### Day 18: August 17, 2021
+
+**Today's Progress**
+
+1. Today, I revised all the basics of DOM that I learn so far.
+2. Then I made a _**(very)**_ simple JavaScript calculator.
+
+### Project Shot
+
+![](./project-shots/gif-simple-calculator.png)
+
+### Screenshot
+
+![](./screenshots/ss-17-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, I've decided to revise all the topics and basics of DOM. Then my target was to create something straightforward yet effective. That is why I chose to create a calculator.
