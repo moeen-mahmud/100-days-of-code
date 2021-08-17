@@ -315,7 +315,7 @@ Today, I learn many new things about input validation, function management, and 
 
 ### Project Shot
 
-![](./project-shots/gif-simple-calculator.png)
+![](./project-shots/gif-simple-calculator.gif)
 
 ### Screenshot
 
