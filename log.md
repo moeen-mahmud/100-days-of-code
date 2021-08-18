@@ -313,15 +313,29 @@ Today, I learn many new things about input validation, function management, and 
 1. Today, I revised all the basics of DOM that I learn so far.
 2. Then I made a _**(very)**_ simple JavaScript calculator.
 
+c
+
+**Thoughts:**
+Today, I've decided to revise all the topics and basics of DOM. Then my target was to create something straightforward yet effective. That is why I chose to create a calculator.
+
+---
+
+### Day 19: August 18, 2021
+
+**Today's Progress**
+
+1. Today, I created a simple shopping cart as my DOM manipulation practice.
+2. Then, I build a simple pin matcher which generates a four digit pin and validate the user input as generated pin.
+
 ### Project Shot
 
-![](./project-shots/gif-simple-calculator.gif)
+![](./project-shots/gif-pin-matcher.gif)
 
 ### Screenshot
 
-![](./screenshots/ss-17-08-21.png)
+![](./screenshots/ss-18-08-21.png)
 
 _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
-Today, I've decided to revise all the topics and basics of DOM. Then my target was to create something straightforward yet effective. That is why I chose to create a calculator.
+Today, I learn a bunch of new staff while building my projects. Everyone always said, "Build Project, build staff". Now, I realize why everyone says so. I decided to do two new simple projects tomorrow. Hope for the best.
