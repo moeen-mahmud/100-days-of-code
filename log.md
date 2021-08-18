@@ -313,7 +313,15 @@ Today, I learn many new things about input validation, function management, and 
 1. Today, I revised all the basics of DOM that I learn so far.
 2. Then I made a _**(very)**_ simple JavaScript calculator.
 
-c
+### Project Shot
+
+![](./project-shots/gif-simple-calculator.gif)
+
+### Screenshot
+
+![](./screenshots/ss-17-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, I've decided to revise all the topics and basics of DOM. Then my target was to create something straightforward yet effective. That is why I chose to create a calculator.
@@ -338,4 +346,4 @@ Today, I've decided to revise all the topics and basics of DOM. Then my target w
 _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
-Today, I learn a bunch of new staff while building my projects. Everyone always said, "Build Project, build staff". Now, I realize why everyone says so. I decided to do two new simple projects tomorrow. Hope for the best.
+Today, I learn a bunch of new staff while building my projects. Everyone always said, "Build Project, build staff". Now, I realize why everyone says so. I decided to do two new simple projects tomorrow. Hope for the best
