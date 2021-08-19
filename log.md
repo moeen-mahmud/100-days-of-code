@@ -347,3 +347,21 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, I learn a bunch of new staff while building my projects. Everyone always said, "Build Project, build staff". Now, I realize why everyone says so. I decided to do two new simple projects tomorrow. Hope for the best
+
+---
+
+### Day 20: August 19, 2021
+
+**Today's Progress**
+
+1. Today, I learn some advance methods of arrays and string such as, .includes(), .startsWith(), .endsWith(), .split(), .slice(), .substr(), .substring(), concat(), join(), .sort(), .reverse(), Array.isArray().
+2. Then, I explore the basics of error handling by learning try...catch...finally method.
+
+### Screenshot
+
+![](./screenshots/ss-19-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Although today I could not code for a significant amount of time, I learned some great new methods and techniques. Hopefully, the next day I could keep my promise as I said yesterday.
