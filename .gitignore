@@ -5,3 +5,7 @@ intl/
 # Ignore round log file
 
 r1-log.md
+
+#Ignore vs code cache file
+
+.vscode/
