@@ -365,3 +365,24 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Although today I could not code for a significant amount of time, I learned some great new methods and techniques. Hopefully, the next day I could keep my promise as I said yesterday.
+
+---
+
+### Day 21: August 20, 2021
+
+**Today's Progress**
+
+1. Today, I revised all the topics about the DOM manipulation and created another simple shopping cart using more functionality.
+
+### Project Shot
+
+![](./project-shots/ss-shopping-cart-js.png)
+
+### Screenshot
+
+![](./screenshots/ss-20-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today was great! I really enjoy creating function. Although, sometimes I get confused. But they are really awesome.
