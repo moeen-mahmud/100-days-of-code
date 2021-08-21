@@ -386,3 +386,24 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today was great! I really enjoy creating function. Although, sometimes I get confused. But they are really awesome.
+
+---
+
+### Day 22: August 21, 2021
+
+**Today's Progress**
+
+1. Today, I practised again by creating another Vanilla JS project.
+
+### Project Shot
+
+![](./project-shots/ss-Mac-Book-Pro.png)
+
+### Screenshot
+
+![](./screenshots/ss-21-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, I finally feel comfortable in writing functions. Although, I invented (later found it already there) a method to write the code without creating multiple or no functions. Considers then where it repeats and where should it needs. Then, add them!
