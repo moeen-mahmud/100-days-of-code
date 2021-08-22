@@ -407,3 +407,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, I finally feel comfortable in writing functions. Although, I invented (later found it already there) a method to write the code without creating multiple or no functions. Considers then where it repeats and where should it needs. Then, add them!
+
+---
+
+### Day 23: August 22, 2021
+
+**Today's Progress**
+
+1. Today, I couldn't code for a significant amount of time rather I study more about function scope, event bubble and form validation.
+
+### Screenshot
+
+![](./screenshots/ss-22-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+From tomorrow, I will start learning the ES6 methods and API's. I'm eagerly waiting and excited as well. Someone wish me luck. :smiling_face_with_tear:
