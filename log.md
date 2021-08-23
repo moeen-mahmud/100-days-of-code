@@ -424,3 +424,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 From tomorrow, I will start learning the ES6 methods and API's. I'm eagerly waiting and excited as well. Someone wish me luck. :smiling_face_with_tear:
+
+---
+
+### Day 24: August 23, 2021
+
+**Today's Progress**
+
+1. Today, I started to learning JavaScript ES6. I learned about template literals, dynamic variables, arrow function, default arguments, spread syntax.
+
+### Screenshot
+
+![](./screenshots/ss-23-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today was great. I started to explore ES6 methods and their applications. Today, I've also begun to form a new habit which is, wake up early morning. Not a difficult one, but not an easy one either. That is the day **_ONE_**. Hopefully, it will continue.
