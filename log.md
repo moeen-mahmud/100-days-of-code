@@ -441,3 +441,22 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today was great. I started to explore ES6 methods and their applications. Today, I've also begun to form a new habit which is, wake up early morning. Not a difficult one, but not an easy one either. That is the day **_ONE_**. Hopefully, it will continue.
+
+---
+
+### Day 25: August 24, 2021
+
+**Today's Progress**
+
+1. Today, I learned a bunch of new advanced topic in ES6.
+2. I learned about object destructuring, optional chaining, array mapping, forEach method, filter and find method, class, constructor method, create objects from class, extends of a class, inheritence.
+3. Have to learn more about **_prototypical inheritence_**.
+
+### Screenshot
+
+![](./screenshots/ss-24-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, was not so great. At least for me. Although, I learned a bunch of new advanced techniques. Hopefully tomorrow will be great.
