@@ -460,3 +460,21 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, was not so great. At least for me. Although, I learned a bunch of new advanced techniques. Hopefully tomorrow will be great.
+
+---
+
+### Day 26: August 26, 2021
+
+**Today's Progress**
+
+1. Today, I learned the basics of API calling, learn the JSON methods like stringify(), parse() and fetch.
+2. And also, learned the basics of GET, POST, PUT, PATCH, GET vs POST, HTTP Methods, CRUD Operation, CRUD vs REST API and a little bit of some status codes.
+
+### Screenshot
+
+![](./screenshots/ss-26-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Yesterday, I was super busy. Don't wanna say anything. Let's hope for the best for tomorrow.
