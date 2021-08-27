@@ -478,3 +478,25 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Yesterday, I was super busy. Don't wanna say anything. Let's hope for the best for tomorrow.
+
+---
+
+### Day 27: August 27, 2021
+
+**Today's Progress**
+
+1. Today, I've created three small projects and an intermediate project based on my previous API learnings.
+2. The projects are a random quote generator, country details using REST Countries, random meal generator by searching. At Last, a country directory with some search features and error handling.
+
+### Project Shot
+
+![](./project-shots/ss-country-dir.gif)
+
+### Screenshot
+
+![](./screenshots/ss-27-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today was a super productive day for me, and I'm satisfied. Build some core projects for refining the basics. And yes, I'm grateful for the day.
