@@ -500,3 +500,24 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today was a super productive day for me, and I'm satisfied. Build some core projects for refining the basics. And yes, I'm grateful for the day.
+
+---
+
+### Day 28: August 28, 2021
+
+**Today's Progress**
+
+1. Today, I revised the all the things I learned about API and create a small project.
+
+### Project Shot
+
+![](./project-shots/ss-sports-db.gif)
+
+### Screenshot
+
+![](./screenshots/ss-28-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today was great, though I thought to create a project using weather api, but didn't. Hopefully tomorrow.
