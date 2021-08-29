@@ -521,3 +521,24 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today was great, though I thought to create a project using weather api, but didn't. Hopefully tomorrow.
+
+---
+
+### Day 29: August 29, 2021
+
+**Today's Progress**
+
+1. Today, I created a simple weather app project, where a user can able to know a particular location's weather by searching city name. There, I added an extra feature, that is, the background image will be change according to the weather condition.
+
+### Project Shot
+
+![](./project-shots/ss-weather-today.gif)
+
+### Screenshot
+
+![](./screenshots/ss-29-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+I kept my promise today, that's surely a win for me.
