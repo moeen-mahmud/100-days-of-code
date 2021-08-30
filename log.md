@@ -542,3 +542,14 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 I kept my promise today, that's surely a win for me.
+
+---
+
+### Day 30: August 30, 2021
+
+**Today's Progress**
+
+1. Today, I learn some advanced theories in JavaScript, such as the main two data types, null vs undefined, double equal vs triple equal, scopes, hoisting, closure, callback functions.
+
+**Thoughts:**
+Although, today, I couldn't code for a long time. Because of I learned mainly the theories. In the next day, I will learn some other ideas too.
