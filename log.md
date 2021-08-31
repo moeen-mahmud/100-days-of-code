@@ -553,3 +553,20 @@ I kept my promise today, that's surely a win for me.
 
 **Thoughts:**
 Although, today, I couldn't code for a long time. Because of I learned mainly the theories. In the next day, I will learn some other ideas too.
+
+---
+
+### Day 31: August 31, 2021
+
+**Today's Progress**
+
+1. Another theory day. Today I learn some interesting things about the objects in JS, such as different ways to create an object, object methods, loop through an object, comparisons between the objects, bind, call, apply and a little bit this.
+
+### Screenshot
+
+![](./screenshots/ss-31-08-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today was fair enough, and I learn something exciting. Slowly, I caught up with the flow of deep learning—best wishes for myself.
