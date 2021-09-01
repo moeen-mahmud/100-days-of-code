@@ -570,3 +570,14 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today was fair enough, and I learn something exciting. Slowly, I caught up with the flow of deep learning—best wishes for myself.
+
+### Day 32: September 1, 2021
+
+**Today's Progress**
+
+1. Today, I revised all the topics I learned so far about es6 and api.
+
+**Thoughts:**
+Today, for the first time I feel like I'm burning out.
+
+---
