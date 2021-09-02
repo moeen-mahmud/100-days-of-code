@@ -581,3 +581,26 @@ Today was fair enough, and I learn something exciting. Slowly, I caught up with 
 Today, for the first time I feel like I'm burning out.
 
 ---
+
+### Day 33: September 2, 2021
+
+**Today's Progress**
+
+1. Today, I created a simple book directory using the Open Library API.
+
+### Project Shot
+
+![](./project-shots/open-book-archive.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-02-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, I feel much better and confidence in API after building the project. I tried to cover all the things I learned so far. And it works well enough.
+
+---
