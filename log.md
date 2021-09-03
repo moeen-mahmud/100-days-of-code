@@ -604,3 +604,18 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 Today, I feel much better and confidence in API after building the project. I tried to cover all the things I learned so far. And it works well enough.
 
 ---
+
+### Day 34: September 3, 2021
+
+**Today's Progress**
+
+1. Today, I relaxed a bit, watched some videos, and read articles about functions, classes, inheritances, closures, scopes, hoisting, etc. and coded a little bit.
+
+### Screenshot
+
+![](./screenshots/ss-03-09-21.png)
+
+**Thoughts:**
+Gradually I became accustomed to JavaScript. I have been thinking of conquering [Wes Bos's 30 JavaScript Projects](https://javascript30.com/) from tomorrow. Let's hope for the best.
+
+---
