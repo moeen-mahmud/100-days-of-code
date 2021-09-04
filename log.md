@@ -619,3 +619,12 @@ Today, I feel much better and confidence in API after building the project. I tr
 Gradually I became accustomed to JavaScript. I have been thinking of conquering [Wes Bos's 30 JavaScript Projects](https://javascript30.com/) from tomorrow. Let's hope for the best.
 
 ---
+
+### Day 35: September 4, 2021
+
+**Today's Progress**
+
+1. Today, I learn more about browser, especially dom tree, render tree and also learn about setTimeout, setInterval, clearInterval and watched some videos on event loop.
+
+**Thoughts:**
+I thought to finish at least one project from [Wes Bos's 30 JavaScript Projects](https://javascript30.com/). The next day, I will finish it for sure.
