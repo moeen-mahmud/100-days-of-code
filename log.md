@@ -628,3 +628,24 @@ Gradually I became accustomed to JavaScript. I have been thinking of conquering 
 
 **Thoughts:**
 I thought to finish at least one project from [Wes Bos's 30 JavaScript Projects](https://javascript30.com/). The next day, I will finish it for sure.
+
+### Day 36: September 5, 2021
+
+**Today's Progress**
+
+1. Today, I learn about BOM vs DOM, Browser API, JavaScript Interactions, Browser APIs, Cookies vs sessionStorage vs localStorage, set/read from local and session storage and created a drum machine using Vanilla JS.
+
+### Project Shot
+
+![](./project-shots/drum-kit.png)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-05-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, I was finally able to finish the first project from [Wes Bos's 30 JavaScript Projects](https://javascript30.com/) Course. Twenty-nine more to go.
