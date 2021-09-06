@@ -649,3 +649,24 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, I was finally able to finish the first project from [Wes Bos's 30 JavaScript Projects](https://javascript30.com/) Course. Twenty-nine more to go.
+
+### Day 37: September 6, 2021
+
+**Today's Progress**
+
+1. Today, I revised some advanced topics and created a simple clock using css and vanilla JS.
+
+### Project Shot
+
+![](./project-shots/js-clock.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-06-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+This project is from [Wes Bos's 30 JavaScript](https://javascript30.com/) course. It is the second one and an awesome one!
