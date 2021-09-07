@@ -670,3 +670,26 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 This project is from [Wes Bos's 30 JavaScript](https://javascript30.com/) course. It is the second one and an awesome one!
+
+---
+
+### Day 38: September 7, 2021
+
+**Today's Progress**
+
+1. Today, I learn how to change the css variables from javascript by creating an interesting project.
+
+### Project Shot
+
+![](./project-shots/css-variables-js.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-06-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+This project is from [Wes Bos's 30 JavaScript](https://javascript30.com/) course. It is the third one and an interesting one!
