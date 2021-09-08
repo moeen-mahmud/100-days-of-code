@@ -687,7 +687,7 @@ _screenshot generated from [ShareX](https://getsharex.com/). An opensource scree
 
 ### Screenshot
 
-![](./screenshots/ss-06-09-21.png)
+![](./screenshots/ss-07-09-21.png)
 
 _screenshot generated from [Code Time](https://www.software.com/)._
 
@@ -702,7 +702,7 @@ This project is from [Wes Bos's 30 JavaScript](https://javascript30.com/) course
 
 ### Screenshot
 
-![](./screenshots/ss-06-09-21.png)
+![](./screenshots/ss-08-09-21.png)
 
 _screenshot generated from [Code Time](https://www.software.com/)._
 
