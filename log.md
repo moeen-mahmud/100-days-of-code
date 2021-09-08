@@ -693,3 +693,18 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 This project is from [Wes Bos's 30 JavaScript](https://javascript30.com/) course. It is the third one and an interesting one!
+
+### Day 39: September 8, 2021
+
+**Today's Progress**
+
+1. Today, I re-learn some useful array methods and finish the third project from [Wes Bos's 30 JavaScript](https://javascript30.com/) course
+
+### Screenshot
+
+![](./screenshots/ss-06-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+I struggled a bit for the first time when I started to solve some challenges in Array. Gradually, I overcame. Let's hope for the best.
