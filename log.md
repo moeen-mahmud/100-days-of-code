@@ -708,3 +708,18 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 I struggled a bit for the first time when I started to solve some challenges in Array. Gradually, I overcame. Let's hope for the best.
+
+### Day 40: September 9, 2021
+
+**Today's Progress**
+
+1. Today, I learn some useful methods in RegExp and created a client side user validation form. Besides, I finished the fourth project from [Wes Bos's 30 JavaScript](https://javascript30.com/) course.
+
+### Screenshot
+
+![](./screenshots/ss-09-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, was great! Two projects in a day is a huge for me.
