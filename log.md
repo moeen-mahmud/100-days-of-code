@@ -723,3 +723,12 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, was great! Two projects in a day is a huge for me.
+
+### Day 41: September 10, 2021
+
+**Today's Progress**
+
+1. Today, I explored the realm of TypeScript. Literally, I fell in love with its syntax and readability. I experimented a bunch of things and just wonder around its playground. It's awesome.
+
+**Thoughts:**
+Today was a new day. I've learned an interesting thing after a long time. An interesting language. I am thinking of learning some more advanced topics in this language.
