@@ -732,3 +732,26 @@ Today, was great! Two projects in a day is a huge for me.
 
 **Thoughts:**
 Today was a new day. I've learned an interesting thing after a long time. An interesting language. I am thinking of learning some more advanced topics in this language.
+
+---
+
+### Day 42: September 11, 2021
+
+**Today's Progress**
+
+1. Today I revised all the core concepts of JavaScript before starting to learn React. Besides, I created a mini project.
+
+### Project Shot
+
+![](./project-shots/search-suggestions.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-11-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+This project is from [Wes Bos's 30 JavaScript](https://javascript30.com/) course, and it is the sixth one. I learned an exciting method today, which is search suggestion and auto-completion. I will try to add some more features later on.
