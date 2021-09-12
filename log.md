@@ -755,3 +755,27 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 This project is from [Wes Bos's 30 JavaScript](https://javascript30.com/) course, and it is the sixth one. I learned an exciting method today, which is search suggestion and auto-completion. I will try to add some more features later on.
+
+---
+
+### Day 43: September 12, 2021
+
+**Today's Progress**
+
+1. Today, I learn more about debugging.
+2. Then created a small and fun project using freedictionary api. This time, I try to implement the auto-complete feature in searching without using RegExp.
+
+### Project Shot
+
+![](./project-shots/handy-dictionary.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-12-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today was great. I challenged myself to create this project and fortunately, I did this exactly how I want. Although, I want to add some more feature but for this, I have to study about some advanced techniques. Hopefully, will do it someday.
