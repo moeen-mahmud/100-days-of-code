@@ -779,3 +779,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today was great. I challenged myself to create this project and fortunately, I did this exactly how I want. Although, I want to add some more feature but for this, I have to study about some advanced techniques. Hopefully, will do it someday.
+
+---
+
+### Day 44: September 13, 2021
+
+**Today's Progress**
+
+1. Today I revisited some pretty much basics of JavaScript and fixed some issues in an existing project.
+
+### Screenshot
+
+![](./screenshots/ss-13-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, I didn't code much as I have the final exam tomorrow. Although, I fixed some bugs on an existing project. I'm thinking of revising those topics that are confusing to me in just two days. Let's hope for the best.
