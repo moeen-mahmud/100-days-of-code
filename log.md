@@ -796,3 +796,18 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, I didn't code much as I have the final exam tomorrow. Although, I fixed some bugs on an existing project. I'm thinking of revising those topics that are confusing to me in just two days. Let's hope for the best.
+
+### Day 45: September 14, 2021
+
+**Today's Progress**
+
+1. Today, I again revisited some advanced topics in JavaScript like, class, prototypal inheritance, **_this_**, closures, callback functions, hoisting, event loop, and objects. Tomorrow, I will be starting to learn React.
+
+### Screenshot
+
+![](./screenshots/ss-14-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, I had the final exam. The exam was pretty good. I relax-coding and revised some topics as mentioned earlier. Tomorrow my new journey will begin.
