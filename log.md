@@ -814,7 +814,7 @@ Today, I had the final exam. The exam was pretty good. I relax-coding and revise
 
 ---
 
-### Day 46: September 14, 2021
+### Day 46: September 15, 2021
 
 **Today's Progress**
 
