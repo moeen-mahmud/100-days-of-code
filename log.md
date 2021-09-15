@@ -811,3 +811,14 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, I had the final exam. The exam was pretty good. I relax-coding and revised some topics as mentioned earlier. Tomorrow my new journey will begin.
+
+---
+
+### Day 46: September 14, 2021
+
+**Today's Progress**
+
+1. Today, I learned the legendary command `create-react-app` and coded a "Hello, world" program. However, I mostly explored the React doc.
+
+**Thoughts:**
+Tomorrow is my other final exam, that's why I didn't want to take much pressure. Hopefully, I will be able to learn it well from tomorrow.
