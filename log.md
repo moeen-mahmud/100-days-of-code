@@ -822,3 +822,19 @@ Today, I had the final exam. The exam was pretty good. I relax-coding and revise
 
 **Thoughts:**
 Tomorrow is my other final exam, that's why I didn't want to take much pressure. Hopefully, I will be able to learn it well from tomorrow.
+
+---
+
+### Day 47: September 16, 2021
+
+**Today's Progress**
+
+1. Today, I re-learn the core concepts of JavaScript and solve some problems.
+
+### Screenshot
+
+![](./screenshots/ss-16-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+**Thoughts:**
+Today, I relaxed a bit. Although I wanted to learn some more things in React, I realized that maybe I shouldn't take pressure to learn new things today. Hopefully, from tomorrow.
