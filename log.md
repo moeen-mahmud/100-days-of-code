@@ -838,3 +838,14 @@ Tomorrow is my other final exam, that's why I didn't want to take much pressure.
 _screenshot generated from [Code Time](https://www.software.com/)._
 **Thoughts:**
 Today, I relaxed a bit. Although I wanted to learn some more things in React, I realized that maybe I shouldn't take pressure to learn new things today. Hopefully, from tomorrow.
+
+---
+
+### Day 48: September 17, 2021
+
+**Today's Progress**
+
+1. Another theory day! Today, I learn about web components, state manegment, routers, routers in React, single page application (SPA), etc.
+
+**Thoughts:**
+I was thinking to build something realistic with React tomorrow. Let's hope for the best.
