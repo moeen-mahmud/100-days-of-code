@@ -849,3 +849,20 @@ Today, I relaxed a bit. Although I wanted to learn some more things in React, I 
 
 **Thoughts:**
 I was thinking to build something realistic with React tomorrow. Let's hope for the best.
+
+---
+
+### Day 49: September 18, 2021
+
+**Today's Progress**
+
+1. Today, I finally explored the core concepts of React and build a simple tic-tac-toe game by following the ReactJS Documentation.
+
+### Screenshot
+
+![](./screenshots/ss-18-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today was great. I'm grasping the basics of React gradually. Tomorrow, I will try to build something interesting as the result of my learning.
