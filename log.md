@@ -866,3 +866,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today was great. I'm grasping the basics of React gradually. Tomorrow, I will try to build something interesting as the result of my learning.
+
+---
+
+### Day 50: September 19, 2021
+
+**Today's Progress**
+
+1. Today, I applied the core concepts of React by creating an api related project. It was exciting!
+
+### Screenshot
+
+![](./screenshots/ss-19-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, I built something all by myself. I rediscover some area and scopes. I'm exploring the world of React.
