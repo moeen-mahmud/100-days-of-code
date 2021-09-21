@@ -875,6 +875,12 @@ Today was great. I'm grasping the basics of React gradually. Tomorrow, I will tr
 
 1. Today, I applied the core concepts of React by creating an api related project. It was exciting!
 
+### Project Shot
+
+![](./project-shots/Random-Meal-Generator-GIF.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
 ### Screenshot
 
 ![](./screenshots/ss-19-09-21.png)
@@ -883,3 +889,26 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, I built something all by myself. I rediscover some area and scopes. I'm exploring the world of React.
+
+---
+
+### Day 51 & 52: September 19-20, 2021
+
+**Today's Progress**
+
+1. Today, I added more functionality to my random meal generator project and learned some theoretical concepts of React.
+
+### Project Shot
+
+![](./project-shots/Random-Meal-Generator.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-21-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+I completely forgot to commit yesterday. That was fun, and the more exciting thing was that I got confused and messed the dates. I wonder why it happened!
