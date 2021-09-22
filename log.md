@@ -912,3 +912,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 I completely forgot to commit yesterday. That was fun, and the more exciting thing was that I got confused and messed the dates. I wonder why it happened!
+
+---
+
+### Day 53: September 19-20, 2021
+
+**Today's Progress**
+
+1. Today, I learned to apply some DOM methods in React and read about some theories from the documentation.
+
+### Screenshot
+
+![](./screenshots/ss-22-09-21.png)
+
+_screenshot generated from [Flameshot](https://flameshot.org/)_, an awesome screenshot tool. 😍
+
+**Thoughts:**
+Today, I finally switched to Ubuntu. Although it's not the first time I've used it before. However, I coded a little today and learned some exciting things as well.
