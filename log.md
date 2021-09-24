@@ -912,3 +912,26 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 I completely forgot to commit yesterday. That was fun, and the more exciting thing was that I got confused and messed the dates. I wonder why it happened!
+
+---
+
+### Day 54 & 55: September 23-24, 2021
+
+**Today's Progress**
+
+1. I learned a bunch of exciting things in the last two days. Then, I built a simple version of Amazon as practice.
+
+### Project Shot
+
+![](./project-shots/ema-john.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-24-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+I've had a great time. I enjoy doing the project. Gradually I'm grasping the basics. Now I realize I've got only halfway to finish the marathon!
