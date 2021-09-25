@@ -935,3 +935,26 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 I've had a great time. I enjoy doing the project. Gradually I'm grasping the basics. Now I realize I've got only halfway to finish the marathon!
+
+---
+
+### Day 56: September 25, 2021
+
+**Today's Progress**
+
+1. Today, I learned how to use an external library and some advanced API methods in React. I also created a small project, and I implemented the learnings there. It was exciting!
+
+### Project Shot
+
+![](./project-shots/mealdb-react.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-25-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today was great, I really enjoyed the practice day. I learn a lots of interesting things.
