@@ -981,4 +981,4 @@ _screenshot generated from [ShareX](https://getsharex.com/). An opensource scree
 _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
-Today, I unlocked a new achievement. I write my first article and published it on Hashnode. Overall the day was great and I'm thrilled.
+Today, I unlocked a new achievement. I write my first article and published it on Hashnode. Overall the day was great.
