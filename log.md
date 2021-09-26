@@ -958,3 +958,27 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today was great, I really enjoyed the practice day. I learn a lots of interesting things.
+
+---
+
+### Day 57: September 26, 2021
+
+**Today's Progress**
+
+1. Today, I did another React project. This time I created my own data insted of loading from api. The project was fun.
+2. I also write an article about the interesting history behind name of Git and published on Hashnode
+
+### Project Shot
+
+![](./project-shots/robo-mania.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-26-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, I unlocked a new achievement. I write my first article and published it on Hashnode. Overall the day was great and I'm thrilled.
