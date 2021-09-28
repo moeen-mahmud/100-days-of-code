@@ -982,3 +982,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, I unlocked a new achievement. I write my first article and published it on Hashnode. Overall the day was great.
+
+---
+
+### Day 58-59: September 27-28, 2021
+
+**Today's Progress**
+
+1. I learned how to use UI frameworks like Material UI, React Bootstrap, Ant Design, and Chakra UI in React.
+
+### Screenshot
+
+![](./screenshots/ss-28-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Yesterday was my off day. Today, I learned some interesting thing. I tried out Material UI for the first time, it's powerful but complicated. I have to practice it more.
