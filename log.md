@@ -999,3 +999,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Yesterday was my off day. Today, I learned some interesting thing. I tried out Material UI for the first time, it's powerful but complicated. I have to practice it more.
+
+---
+
+### Day 60: September 29, 2021
+
+**Today's Progress**
+
+1. Today, I learned how to use Routers in React. I leaned how to route, route parameters, and history.
+
+### Screenshot
+
+![](./screenshots/ss-29-09-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today was great! I really wanted to learn this topic for a long time. I will build a project out of my learning tomorrow.
