@@ -1016,3 +1016,22 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today was great! I really wanted to learn this topic for a long time. I will build a project out of my learning tomorrow.
+
+---
+
+### Day 61: September 30, 2021
+
+**Today's Progress**
+
+1. Today, I learn how to implement the router properly by doing a project.
+
+### Project Shot
+
+![](./project-shots/meal-generator-v2.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+**Thoughts:**
+The project was great. It help me to excercise all the basics of routing. Tomorrow, I will learn the routes in depth and how to build a custom component.
+
+<span style="color: red">**_Note:_**</span> Code time has broke.😑
