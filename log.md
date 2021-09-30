@@ -1034,4 +1034,4 @@ _screenshot generated from [ShareX](https://getsharex.com/). An opensource scree
 **Thoughts:**
 The project was great. It help me to excercise all the basics of routing. Tomorrow, I will learn the routes in depth and how to build a custom component.
 
-<span style="color: red">**_Note:_**</span> Code time has broke.😑
+<span style="color:red">**_Note:_**</span> Code time has broke.😑
