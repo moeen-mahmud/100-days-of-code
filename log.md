@@ -1035,3 +1035,16 @@ _screenshot generated from [ShareX](https://getsharex.com/). An opensource scree
 The project was great. It help me to excercise all the basics of routing. Tomorrow, I will learn the routes in depth and how to build a custom component.
 
 <span style="color:red">**_Note:_**</span> Code time has broke.😑
+
+---
+
+### Day 62: October 01, 2021
+
+**Today's Progress**
+
+1. Today, I learn how to create custom hooks in React and learn to make a component reusable.
+
+**Thoughts:**
+Today I participate in the Hacktoberfest for the first time. I contrubuted in two beginner friendly repos. It was an exciting experience that I have ever had in my journey to become a developer. Besides, I enhanced my **Amazon Clone** project by adding custom hooks and reusable components. It was a thrilling experience.
+
+<span style="color:red">**_Note:_**</span> Code time is coming 🔥
