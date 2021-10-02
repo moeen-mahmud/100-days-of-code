@@ -1054,3 +1054,20 @@ _screenshot generated from [ShareX](https://getsharex.com/). An opensource scree
 Today I participate in the Hacktoberfest for the first time. I contrubuted in two beginner friendly repos. It was an exciting experience that I have ever had in my journey to become a developer. Besides, I enhanced my **Amazon Clone** project by adding custom hooks and reusable components. It was a thrilling experience.
 
 <span style="color:red">**_Note:_**</span> Code time is coming 🔥
+
+---
+
+### Day 63: October 02, 2021
+
+**Today's Progress**
+
+1. Today, I learned about conditional rendering, context api, children props, props drilling in React.
+
+### Screenshot
+
+![](./screenshots/ss-02-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, I mainly learned the theories and some advanced techniques in React. Tomorrow, I will create a practice project in order to apply what I learned so far.
