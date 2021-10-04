@@ -1071,3 +1071,26 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, I mainly learned the theories and some advanced techniques in React. Tomorrow, I will create a practice project in order to apply what I learned so far.
+
+---
+
+### Day 64-65: October 03-04, 2021
+
+**Today's Progress**
+
+1. Today, I applied my learnings by doing a project where I use routing, dynamic routing, custom hooks, etc.
+
+### Project Shot
+
+![](./project-shots/ema-john-redef.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-04-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+I'm exhausted and burning out. Although, I thought to write something about Javascript in dev blog. Hopefully tomorrow.
