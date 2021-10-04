@@ -1082,7 +1082,7 @@ Today, I mainly learned the theories and some advanced techniques in React. Tomo
 
 ### Project Shot
 
-![](./project-shots/ema-john-redef.gif)
+![](./project-shots/review-website.gif)
 
 _screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
 
