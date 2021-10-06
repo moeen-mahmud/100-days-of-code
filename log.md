@@ -1094,3 +1094,18 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 I'm exhausted and burning out. Although, I thought to write something about Javascript in dev blog. Hopefully tomorrow.
+
+### Day 66-67: October 05-06, 2021
+
+**Today's Progress**
+
+1. Today, I learned how to impliment Firebase authentication in React project. Then created a user login system on top of it.
+
+### Screenshot
+
+![](./screenshots/ss-06-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, I learned an interesting thing. I will create a real world user login system tomorrow. Excited 😍
