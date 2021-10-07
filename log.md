@@ -1109,3 +1109,26 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, I learned an interesting thing. I will create a real world user login system tomorrow. Excited 😍
+
+---
+
+### Day 68: October 07, 2021
+
+**Today's Progress**
+
+1. Today, I learned authentication with Email and password in Firebase. Learned about how create a user, send email verification, password resetting process etc. Besides some learned some advanced form verification too.
+
+### Project Shot
+
+![](./project-shots/material-firebase.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-07-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Tomorrow, I will create another project and apply some techniqes I learned today. Thrilled 😎
