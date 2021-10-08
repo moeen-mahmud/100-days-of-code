@@ -1132,3 +1132,26 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Tomorrow, I will create another project and apply some techniqes I learned today. Thrilled 😎
+
+---
+
+### Day 69: October 08, 2021
+
+**Today's Progress**
+
+1. Today's work 👇
+
+### Project Shot
+
+![](./project-shots/multi-auth.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-07-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Game on 🔥
