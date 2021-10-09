@@ -1149,9 +1149,26 @@ _screenshot generated from [ShareX](https://getsharex.com/). An opensource scree
 
 ### Screenshot
 
-![](./screenshots/ss-07-10-21.png)
+![](./screenshots/ss-08-10-21.png)
 
 _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Game on 🔥
+
+---
+
+### Day 70: October 09, 2021
+
+**Today's Progress**
+
+1. Today, I learned about Auth Context, Auth Provider with value, how to create custom Auth hook, simple redirects, and private route.
+
+### Screenshot
+
+![](./screenshots/ss-09-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Tomorrow, I learned some advanced techniques. Tomorrow I will practice these once again and create a project out of it.
