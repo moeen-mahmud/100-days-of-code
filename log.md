@@ -1172,3 +1172,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Tomorrow, I learned some advanced techniques. Tomorrow I will practice these once again and create a project out of it.
+
+---
+
+### Day 71: October 10, 2021
+
+**Today's Progress**
+
+1. Today, I learned more about Private Route, Redirects, Auth hooks, and form validation using React Hook Form.
+
+### Screenshot
+
+![](./screenshots/ss-10-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Tomorrow, I will practice more on my todays learnings. Will try to create a project from scratch.
