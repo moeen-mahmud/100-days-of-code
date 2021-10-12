@@ -1189,3 +1189,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Tomorrow, I will practice more on my todays learnings. Will try to create a project from scratch.
+
+---
+
+### Day 72-73: October 11-12, 2021
+
+**Today's Progress**
+
+1. Today, I revised all the core concepts of React and built a small project.
+
+### Screenshot
+
+![](./screenshots/ss-12-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Tomorrow, I will try to build a bit more realistic project than today. Let's hope for the best.
