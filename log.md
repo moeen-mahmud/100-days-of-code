@@ -1206,3 +1206,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Tomorrow, I will try to build a bit more realistic project than today. Let's hope for the best.
+
+---
+
+### Day 74-75: October 13-14, 2021
+
+**Today's Progress**
+
+1. For the last two days, I re-visited everything I learned so far in React. Build a restaurant app and experimented some interesting things there.
+
+### Screenshot
+
+![](./screenshots/ss-14-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Although, the project was not finished yet. The UI alignments was challenging, however, I somehow managed. Tomorrow, I will finish this one and build another project.
