@@ -1223,3 +1223,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Although, the project was not finished yet. The UI alignments was challenging, however, I somehow managed. Tomorrow, I will finish this one and build another project.
+
+---
+
+### Day 76-77: October 15-16, 2021
+
+**Today's Progress**
+
+1. Fully completed the last project I was working on and finish another travel site related project today.
+
+### Screenshot
+
+![](./screenshots/ss-16-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+The last two projects were challenging enough. Although, I added minimum feature and skip some advanced feature. I have to learn more about React. Hopefully, I will complete the projects with all the requirements later.
