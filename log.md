@@ -1240,3 +1240,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 The last two projects were challenging enough. Although, I added minimum feature and skip some advanced feature. I have to learn more about React. Hopefully, I will complete the projects with all the requirements later.
+
+---
+
+### Day 78-80: October 17-19, 2021
+
+**Today's Progress**
+
+1. For the last two days, I was building a project out of everything I learned so far in React. I implemented and experimented some advanced staffs there.
+
+### Screenshot
+
+![](./screenshots/ss-19-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+I'm really satisfied on my learnings, though the project was not challenging. However, I tried something new and the experience was awesome.
