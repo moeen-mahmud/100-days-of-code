@@ -1257,3 +1257,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 I'm really satisfied on my learnings, though the project was not challenging. However, I tried something new and the experience was awesome.
+
+---
+
+### Day 81: October 20, 2021
+
+**Today's Progress**
+
+1. Today, I learned some advanced techniques and created a basic note taking app using React and Material UI.
+
+### Screenshot
+
+![](./screenshots/ss-20-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+The project I mentioned above helped me to understand the concepts of Material UI. I learned some advance techniques there and created a local json server for storing the data.
