@@ -1274,3 +1274,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 The project I mentioned above helped me to understand the concepts of Material UI. I learned some advance techniques there and created a local json server for storing the data.
+
+---
+
+### Day 82: October 21, 2021
+
+**Today's Progress**
+
+1. Today I created my first API. I learned how to use Express on top of Node, and practised the API methods.
+
+### Screenshot
+
+![](./screenshots/ss-21-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+It was a very exciting day. I was looking forward to this day. Tomorrow, I will learn more about database hosting and Mongo DB.
