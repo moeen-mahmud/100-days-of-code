@@ -1291,3 +1291,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 It was a very exciting day. I was looking forward to this day. Tomorrow, I will learn more about database hosting and Mongo DB.
+
+---
+
+### Day 83: October 22, 2021
+
+**Today's Progress**
+
+1. Today, I learned about MongoDB, created a basic CRUD operation, and build a simple user management system on top it.
+
+### Screenshot
+
+![](./screenshots/ss-22-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+The day was great. Sometimes the backend operations felt a bit challenging, however I managed it. Look forward to build something interesting tomorrow.
