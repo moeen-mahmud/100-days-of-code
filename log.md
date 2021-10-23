@@ -1308,3 +1308,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 The day was great. Sometimes the backend operations felt a bit challenging, however I managed it. Look forward to build something interesting tomorrow.
+
+---
+
+### Day 84: October 23, 2021
+
+**Today's Progress**
+
+1. Today, I practised the basics of MongoDB, Express, and Node. Then created a simple product management system.
+
+### Screenshot
+
+![](./screenshots/ss-23-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+The day was fair enough. Let's hope something for tomorrow.
