@@ -1325,3 +1325,29 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 The day was fair enough. Let's hope something for tomorrow.
+
+---
+
+### Day 87: October 26, 2021
+
+**Today's Progress**
+
+1. For the last two days, I was learning more about the backends and try to implement node-express server in some existing project. Today, I created a simple CRUD based notetaking web app.
+
+_**NB: The project needs to be polished more...**_
+
+### Project Shot
+
+![](./project-shots/nanote.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-23-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+_It broke again._ 😠
+
+**Thoughts:**
+The project was challenging and interesting. Enjoyed a lot, learn a lot. Although it needs more polishing. I completed the backend part today. I have a lot to do with it.
