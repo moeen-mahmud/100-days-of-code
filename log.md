@@ -1374,3 +1374,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 The project was challenging enough and I enjoy doing this. I experimented some advance stuff there. The project is not finished yet. Will implement a bunch of features later on.
+
+---
+
+### Day 90-91: October 29-30, 2021
+
+**Today's Progress**
+
+1. I have finished building another CRUD project today. It was a travel booking related web site. It was pretty much a reflection of my previous project though. But this project is not as advanced as the previous one. Will implement the features later on.
+
+### Screenshot
+
+![](./screenshots/ss-30-10-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+The project was great. Gradually, I starting to feel some comfort zone in React, Authentication and some other areas. Although, the backend is kinda new to me. I will have to build some more full stack project for finding the comfort zone.
