@@ -1391,3 +1391,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 The project was great. Gradually, I starting to feel some comfort zone in React, Authentication and some other areas. Although, the backend is kinda new to me. I will have to build some more full stack project for finding the comfort zone.
+
+---
+
+### Day 93: November 01, 2021
+
+**Today's Progress**
+
+1. Today, I learned about JWT token and how to use it with firebase. Also, learned about how to verify and decode it
+
+### Screenshot
+
+![](./screenshots/ss-01-11-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+I have learned the basics and some advance techniques in both front-end and back-end so far. Will begin a revisional project from tomorrow. Let's hope for the best.
