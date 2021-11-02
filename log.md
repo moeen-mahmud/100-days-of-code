@@ -1408,3 +1408,26 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 I have learned the basics and some advance techniques in both front-end and back-end so far. Will begin a revisional project from tomorrow. Let's hope for the best.
+
+---
+
+### Day 94: November 02, 2021
+
+**Today's Progress**
+
+1. Today, I added user verification by JWT token and some other intermediate features in my _**"Note Taking"**_ app project.
+
+### Project Shot
+
+![](./project-shots/nanote_update_0.0.1.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-02-11-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+It's amazing that I have only six more days to finish the **100 Days of Code** challenge. I have learned a lot of amazing things and I started to work on my side project.
