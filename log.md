@@ -1431,3 +1431,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 It's amazing that I have only six more days to finish the **100 Days of Code** challenge. I have learned a lot of amazing things and I started to work on my side project.
+
+---
+
+### Day 95: November 03, 2021
+
+**Today's Progress**
+
+1. Today, I practiced all the things I learned in React so far. Tomorrow, I will started to work for the Backend part.
+
+### Screenshot
+
+![](./screenshots/ss-03-11-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Today, I didn't code for a significant amount of time though. But I wonder how I made the frontend part so easily in an hour! This is surely a huge achievement for me.
