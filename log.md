@@ -1438,7 +1438,7 @@ It's amazing that I have only six more days to finish the **100 Days of Code** c
 
 **Today's Progress**
 
-1. Today, I practiced all the things I learned in React so far. Tomorrow, I will started to work for the Backend part.
+1. Today, I practised all the things I learned in React so far. Tomorrow, I will start to work on the Backend part.
 
 ### Screenshot
 
