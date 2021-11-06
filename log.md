@@ -1465,7 +1465,7 @@ _screenshot generated from [ShareX](https://getsharex.com/). An opensource scree
 
 ### Screenshot
 
-![](./screenshots/ss-03-11-21.png)
+![](./screenshots/ss-06-11-21.png)
 
 _screenshot generated from [Code Time](https://www.software.com/)._
 
