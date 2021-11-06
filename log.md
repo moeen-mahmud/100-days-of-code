@@ -1448,3 +1448,26 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Today, I didn't code for a significant amount of time though. But I wonder how I made the frontend part so easily in an hour! This is surely a huge achievement for me.
+
+---
+
+### Day 98: November 06, 2021
+
+**Today's Progress**
+
+1. Worked on my Nanote project, fixed some bugs and add some new features!
+
+### Project Shot
+
+![](./project-shots/nanote_update_0.0.2.gif)
+
+_screenshot generated from [ShareX](https://getsharex.com/). An opensource screen capture, file sharing and productivity tool._
+
+### Screenshot
+
+![](./screenshots/ss-03-11-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Although, some critical bugs still remained there. But it's better to finish than not finished.
