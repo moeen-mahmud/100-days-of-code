@@ -1471,3 +1471,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 Although, some critical bugs still remained there. But it's better to finish than not finished.
+
+---
+
+### Day 99: November 07, 2021
+
+**Today's Progress**
+
+1. Today was a complete theory day. Learned more about backend, jwt tokens, securities and some advanced React techniques.
+
+### Screenshot
+
+![](./screenshots/ss-07-11-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+So, it is day 99 and I'm only one day away from completing the thrilling journey. I really enjoyed the processes and paths. Maybe I will go beyond 100 days or at least I will try to document my journey.
