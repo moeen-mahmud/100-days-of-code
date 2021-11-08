@@ -1488,3 +1488,20 @@ _screenshot generated from [Code Time](https://www.software.com/)._
 
 **Thoughts:**
 So, it is day 99 and I'm only one day away from completing the thrilling journey. I really enjoyed the processes and paths. Maybe I will go beyond 100 days or at least I will try to document my journey.
+
+---
+
+### Day 100: November 08, 2021
+
+**Today's Progress**
+
+1. So, it is my last day of 100 days of Code Challenge. During my journey, I learned a bunch of things, created a handful amount of projects, and made the connection with some amazing people on tech Twitter. Taking this challenge was indeed a great decision and I'm really glad that I was able to start this.
+
+### Screenshot
+
+![](./screenshots/ss-08-11-21.png)
+
+_screenshot generated from [Code Time](https://www.software.com/)._
+
+**Thoughts:**
+Beyond 100 Days of Code, I'm coming...
